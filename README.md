@@ -18,7 +18,7 @@ As a judoka, I am a disciplined and methodical person and I always do my work wi
 
 ### Something about me
 
-In my free time I love reading good novels, watching TV shows, traveling and riding horse and motorbike.
+In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
 
 ### Contact
 
