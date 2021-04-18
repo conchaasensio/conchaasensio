@@ -16,13 +16,15 @@ Lawyer reinvented in Front-End developer. After several years of working surroun
 
 As a judoka, I am a disciplined and methodical person and I always do my work with respect and empathy to my colleagues. Judo also gave me the love of learning and continuous improvement, which has made me keep growing both professionally and as a person in each ney challenge I face.
 
+I am currently working at Codium as Jr. Front-End Developer.
+
 ### Something about me
 
 In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
 
 ### Contact
 
-You can find me on Linkedin and Twitter. You can also send me an email, if you prefer. I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me ;)
+You can find me on Linkedin and Twitter. You can also send me an email, if you prefer.
 
 <a href="https://www.linkedin.com/in/conchaasensio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
