@@ -13,7 +13,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-%23353b35?logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23748074?logo=testinglibrary&logoColor=white)
 
-<div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+<img src="./images/Background_github.png" alt="background" width="1252">
 
 ## I am a Front-End Developer 👩‍💻
 
@@ -27,33 +27,7 @@ I am currently working at Codium as Jr. Front-End Developer.
 
 In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
 
-## Talks 🗣 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=PSOA168SJJc&t=1349s">
-        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalaberfest-talk.jpeg" width="150px" alt="Contratos de Desarrollo de Software - Adalaber Fest"/>
-        <br />
-        <sub>
-          <b>Contratos de Desarrollo de Software - Adalaber Fest</b>
-        </sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=ReKlql7tOa8">
-        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalab_talk.jpeg" width="150px" alt="Adalabers que inspiran - Concha Asensio"/>
-        <br />
-        <sub>
-          <b>Mi experiencia reinventándome como desarrolladora</b>
-        </sub>
-      </a>
-      <br />
-    </td>    
-  </tr>
- </table>
- 
- ## Panel
+## Talks/Panels/Interviews 🗣 💬 🎙️
 <table>
   <tr>
     <td align="center">
@@ -76,20 +50,44 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
       </a>
       <br />
     </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=ReKlql7tOa8">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalab_talk.jpeg" width="150px" alt="Adalabers que inspiran - Concha Asensio"/>
+        <br />
+        <sub>
+          <b>Mi experiencia reinventándome como desarrolladora</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=PSOA168SJJc&t=1349s">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalaberfest-talk.jpeg" width="150px" alt="Contratos de Desarrollo de Software - Adalaber Fest"/>
+        <br />
+        <sub>
+          <b>Contratos de Desarrollo de Software - Adalaber Fest</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=IXdxg--Nez4">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/doit-interview.png" width="150px" alt="Entrevista - do ~ IT"/>
+        <br />
+        <sub>
+          <b>Entrevista - do ~ IT</b>
+        </sub>
+      </a>
+      <br />
+    </td>
   </tr>
- </table> 
+ </table>
+ 
 
-### Contact
+### Feel free to connect with me:
 
-You can find me on Linkedin and Twitter. You can also send me an email, if you prefer.
-
-<a href="https://www.linkedin.com/in/conchaasensio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
-
-<a href="https://twitter.com/conchaasensio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
-
-<!-- <a href="mailto:conchaasensiomr@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
-
-✉️ conchaasensiomr@gmail.com
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/conchaasensio)](https://twitter.com/conchaasensio)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conchaasensio/)](https://www.linkedin.com/in/conchaasensio/)
 
 
 
