@@ -27,6 +27,58 @@ I am currently working at Codium as Jr. Front-End Developer.
 
 In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
 
+## Talks 🗣 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=PSOA168SJJc&t=1349s">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalaberfest-talk.jpeg" heigth="150px" width="150px" alt="Contratos de Desarrollo de Software - Adalaber Fest"/>
+        <br />
+        <sub>
+          <b>Contratos de Desarrollo de Software - Adalaber Fest</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=ReKlql7tOa8">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/adalab_talk.jpeg" heigth="150px" width="150px" alt="Adalabers que inspiran - Concha Asensio"/>
+        <br />
+        <sub>
+          <b>Mi experiencia reinventándome como desarrolladora</b>
+        </sub>
+      </a>
+      <br />
+    </td>    
+  </tr>
+ </table>
+ 
+ ## Panel
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/wWum0qFiiEA?t=5972">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/aifest-panel.jpeg" heigth="150px" width="150px" alt="Mesa redonda: Mujeres en el sector tecnológico - AI Fest Spain"/>
+        <br />
+        <sub>
+          <b>Mesa redonda: Mujeres en el sector tecnológico - AI Fest Spain</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/MiJXAksnRWA?t=18090">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/codenoobs-panel.jpeg" heigth="150px" width="150px" alt="Cómo entrar en comunidades tech y seguir teniendo vida - CodeNoobs"/>
+        <br />
+        <sub>
+          <b>Cómo entrar en comunidades tech y seguir teniendo vida - CodeNoobs</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+ </table> 
+
 ### Contact
 
 You can find me on Linkedin and Twitter. You can also send me an email, if you prefer.
