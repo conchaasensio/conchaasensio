@@ -7,6 +7,11 @@
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-%23748074?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%23694640?logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%23f89d71?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-%23353b35?logo=cypress&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23748074?logo=testinglibrary&logoColor=white)
 
 <div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
