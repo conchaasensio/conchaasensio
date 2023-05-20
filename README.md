@@ -51,7 +51,6 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
       <br />
     </td>
     <td align="center">
-    <td align="center">
       <a href="https://www.xataka.com/pro/abogada-profesional-senior-a-desarrolladora-junior-que-me-converti-programadora-teniendo-vida-laboral-asentada">
         <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/articulo-xataka.jpeg" width="150px" alt="De abogada profesional sénior a desarrolladora junior - Xataka"/>
         <br />
