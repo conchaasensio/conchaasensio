@@ -31,7 +31,7 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
 <table>
   <tr>
     <td align="center">
-      <a href="[https://anchor.fm/no-me-da-la-vida/episodes/0-7---Para-hablar-de-cambios-con-Concha-Asensio-e16mu58](https://www.xataka.com/pro/abogada-profesional-senior-a-desarrolladora-junior-que-me-converti-programadora-teniendo-vida-laboral-asentada)">
+      <a href="https://www.xataka.com/pro/abogada-profesional-senior-a-desarrolladora-junior-que-me-converti-programadora-teniendo-vida-laboral-asentada">
         <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/articulo-xataka.jpeg" width="150px" alt="Para hablar de cambios con Concha Asensio - Podcast No me da la vida"/>
         <br />
         <sub>
