@@ -31,8 +31,29 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.youtube.com/watch?v=ulHhODzeDVU&list=PL8FunXL7Dbe1NdeqEphPAOaLxH-mq38iy">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/charla-scmad.jpeg" width="150px" alt="Charla Junior XP - Software Crafters Madrid"/>
+        <br />
+        <sub>
+          <b>Charla "Junior XP: cómo practicar eXtreme Programming y no morir en el intento". - Software Crafters Madrid</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://blog.talenthackers.net/entrevista-a-concha-asensio-frontend-developer-en-codium">
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/entrevista-talenthackers.jpeg" width="150px" alt="Entrevista a Concha Asensio, Frontend Developer en Codium - Blog TalentHackers"/>
+        <br />
+        <sub>
+          <b>Entrevista a Concha Asensio, Frontend Developer en Codium - TalentHackers</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+    <td align="center">
       <a href="https://www.xataka.com/pro/abogada-profesional-senior-a-desarrolladora-junior-que-me-converti-programadora-teniendo-vida-laboral-asentada">
-        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/articulo-xataka.jpeg" width="150px" alt="Para hablar de cambios con Concha Asensio - Podcast No me da la vida"/>
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/articulo-xataka.jpeg" width="150px" alt="De abogada profesional sénior a desarrolladora junior - Xataka"/>
         <br />
         <sub>
           <b>De abogada profesional sénior a desarrolladora junior - Xataka</b>
