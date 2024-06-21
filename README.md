@@ -21,8 +21,6 @@ Lawyer reinvented in Front-End developer. After several years of working surroun
 
 As a judoka, I am a disciplined and methodical person and I always do my work with respect and empathy to my colleagues. Judo also gave me the love of learning and continuous improvement, which has made me keep growing both professionally and as a person in each ney challenge I face.
 
-I am currently working at Codium as Jr. Front-End Developer.
-
 ### Something about me
 
 In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
