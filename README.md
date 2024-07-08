@@ -13,11 +13,9 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-%23353b35?logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23748074?logo=testinglibrary&logoColor=white)
 
-<img src="./images/Background_github.png" alt="background" width="1252">
+## I am a Software Developer 👩‍💻
 
-## I am a Front-End Developer 👩‍💻
-
-Lawyer reinvented in Front-End developer. After several years of working surrounded by engineers within large tech companies, I decided that I wanted to be one of those people who build things and make it work.
+Lawyer reinvented in software developer. After several years of working surrounded by engineers within large tech companies, I decided that I wanted to be one of those people who build things and make it work.
 
 As a judoka, I am a disciplined and methodical person and I always do my work with respect and empathy to my colleagues. Judo also gave me the love of learning and continuous improvement, which has made me keep growing both professionally and as a person in each ney challenge I face.
 
