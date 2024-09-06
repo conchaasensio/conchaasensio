@@ -27,6 +27,96 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.youtube.com/watch?v=02AZb0wWdJA">
+        <img src="" width="150px" alt="No todo el campo es green: aprendiendo a trabajar con legacy code - Almería Tech"/>
+        <br />
+        <sub>
+          <b>Charla "No todo el campo es green: aprendiendo a trabajar con legacy code" - Almería Tech</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=yn8dzpnYaq8">
+        <img src="" width="150px" alt="No todo el campo es green: aprendiendo a trabajar con legacy code - Commit Conf"/>
+        <br />
+        <sub>
+          <b>Charla "No todo el campo es green: aprendiendo a trabajar con legacy code" - Commit Conf</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=TVNdzbjLh34&t=309s">
+        <img src="" width="150px" alt="Podando nuestro código a través del refactor - Garaje de ideas"/>
+        <br />
+        <sub>
+          <b>Live coding "Podando nuestro código a través del refactor" - Garaje de ideas</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=QG0vQGuNQVI">
+        <img src="" width="150px" alt="No todo el campo es green: aprendiendo a trabajar con legacy code - Murcia Dev"/>
+        <br />
+        <sub>
+          <b>Charla "No todo el campo es green: aprendiendo a trabajar con legacy code" - Murcia Dev</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=oypKfP5AZqA">
+        <img src="" width="150px" alt="Charla sobre mi cambio de carrera - ReinventadXs"/>
+        <br />
+        <sub>
+          <b>Charla sobre mi cambio de carrera - ReinventadXs</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+     <td align="center">
+      <a href="https://www.youtube.com/watch?v=oypKfP5AZqA">
+        <img src="" width="150px" alt="Charla sobre mi cambio de carrera - ReinventadXs"/>
+        <br />
+        <sub>
+          <b>Charla sobre mi cambio de carrera - ReinventadXs</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/events/7028683296985210880/comments/">
+        <img src="" width="150px" alt="Mesa redonda sobre el papel de los juniors en tech - Step4ward talk"/>
+        <br />
+        <sub>
+          <b>Mesa redonda sobre el papel de los juniors en tech - Step4ward talk</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/live/7vO0ACWUTs0">
+        <img src="" width="150px" alt="Cómo convivir y sobrevivir al síndrome del impostor - Podcast Código, Marketing y mucha purpurina"/>
+        <br />
+        <sub>
+          <b>Cómo convivir y sobrevivir al síndrome del impostor - Podcast Código, Marketing y mucha purpurina</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=YYpKP5W2Nwc">
+        <img src="" width="150px" alt="Coloquio sobre eXtreme Programming - Podcast Más allá del Front"/>
+        <br />
+        <sub>
+          <b>Coloquio sobre eXtreme Programming. - Podcast Más allá del Front</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=ulHhODzeDVU&list=PL8FunXL7Dbe1NdeqEphPAOaLxH-mq38iy">
         <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/charla-scmad.jpeg" width="150px" alt="Charla Junior XP - Software Crafters Madrid"/>
         <br />
