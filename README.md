@@ -28,10 +28,10 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=02AZb0wWdJA">
-        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/1709713827291.jpeg" width="150px" alt="No todo el campo es green: aprendiendo a trabajar con legacy code - Almería Tech"/>
+        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/1709713827291.jpeg" width="150px" alt="Cómo practicar eXtreme Programming y no morir en el intento - Almería Tech"/>
         <br />
         <sub>
-          <b>Charla "No todo el campo es green: aprendiendo a trabajar con legacy code" - Almería Tech</b>
+          <b>Charla "Cómo practicar eXtreme Programming y no morir en el intento" - Almería Tech</b>
         </sub>
       </a>
       <br />
